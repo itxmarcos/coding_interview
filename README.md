@@ -1,7 +1,7 @@
 # Machine Learning Engineer Interview Preparation
 
 ## Overview
-Welcome to my public repository where I share my journey and materials used for preparing coding interviews for a Machine Learning Engineer role. This repository is inspired by the guidelines provided in the [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/) and is supplemented by my own learning experiences documented on a [Notion page] (https://oil-bucket-2c0.notion.site/Coding-Interview-e637e731ef884505b7e7f8e48ef40d03).
+Welcome to my public repository where I share my journey and materials used for preparing coding interviews for a Machine Learning Engineer role. This repository is inspired by the guidelines provided in the [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/) and is supplemented by my own learning experiences documented on a [Notion page](https://oil-bucket-2c0.notion.site/Coding-Interview-e637e731ef884505b7e7f8e48ef40d03).
 
 ## Repository Contents
 The materials in this repository are organized into two main directories, each containing subdirectories and files related to specific problem-solving techniques and coding challenges:
